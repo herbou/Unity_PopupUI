@@ -37,13 +37,15 @@ for more supported style tags : <a href="https://docs.unity3d.com/Packages/com.u
 ## ■ All options popup :
 ```c#
 void Start(){
-  Popup.Show ("Popup title", "Hello world", "Click Me", PopupColor.Red, OnClose);
+  Popup.Show ("Popup title", "With Unity we can do anything.", "Click Me", PopupColor.Red, OnClose);
 }
 
 void OnClose(){
   Debug.Log("Red Popup closed");
 }
 ```
+<img src="https://www.mediafire.com/convkey/4b81/015cvkokcznivci7g.jpg" alt="Toast ui" height="150" />
+
 or you can use lambda expression **=>** for the event :
 ```c#
 void Start(){
