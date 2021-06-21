@@ -18,7 +18,7 @@ A powerful,Customizable, and esay-to-use Popup UI for Unity
 ```c#
 using EasyUI.Popup ;
 ```
-### 4- Now Simply write ```Toast.Show()```:
+### 4- Now Simply write ```Popup.Show(..)```:
 ```c#
 // Only Text :
 Popup.Show ("Hello GameDevs") ;
