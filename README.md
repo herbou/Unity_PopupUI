@@ -16,7 +16,7 @@ A powerful,Customizable, and esay-to-use Popup UI for Unity
 ⚠️ NOTE! : No need to add any prefab to the scene
 ### 3- Add **EasyUI.Popup** namespace in your script :
 ```c#
-using EasyUI.Toast ;
+using EasyUI.Popup ;
 ```
 ### 4- Now Simply write ```Toast.Show()```:
 ```c#
