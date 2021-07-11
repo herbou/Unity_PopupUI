@@ -29,7 +29,7 @@ Popup.Show ("Message", "Hello GameDevs") ;
 
 ## ■ Change text styling :
 ```c#
-Popup.Show ("Custom text color", "Hello, <color=red>This text is red<color>");
+Popup.Show ("Custom text color", "Hello, <color=red>This text is red</color>");
 ```
 <img src="https://www.mediafire.com/convkey/4051/ubhdgel36ybq6kk7g.jpg" alt="Toast ui" height="150" />
 for more supported style tags : <a href="https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/StyledText.html">Text supported styles</a>
